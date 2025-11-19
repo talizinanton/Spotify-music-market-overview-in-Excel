@@ -2,9 +2,11 @@
 
 Is organic growth dead? A new artist's journey to stardom needs a data strategy. For my latest project, I analyzed Spotify data to reverse-engineer the success of the platform's biggest stars—from Taylor Swift to BTS.
 
-## The Core Business Problem: How can a new artist maximize their chances of breaking through?
+## The Core Business Problem: 
+How can a new artist maximize their chances of breaking through?
 
-## Project Scope & Data: My analysis was built on a robust Spotify dataset containing over 8,500 rows of data, covering key features like: artist_name, artist_genres, artist_followers_count, album_release_date
+## Project Scope & Data: 
+My analysis was built on a robust Spotify dataset containing over 8,500 rows of data, covering key features like: artist_name, artist_genres, artist_followers_count, album_release_date
 
 
 ### Key Insights from the Analysis:
